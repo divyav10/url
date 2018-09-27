@@ -1,0 +1,127 @@
+[2018-09-26 22:04:41] Executing bootstrap tasks
+[2018-09-26 22:04:41] Java(TM) SE Runtime Environment 1.9.0-ea-b44
+[2018-09-26 22:04:41] Product org.eclipse.products.epp.package.java.2018-09
+[2018-09-26 22:04:41] Bundle org.eclipse.oomph.setup 1.10.0.v20180828-0705, build=3652, branch=fddd6edb5a235aea831fecf04547579693a78a4e
+[2018-09-26 22:04:41] Bundle org.eclipse.oomph.setup.core 1.10.0.v20180714-0556, build=3652, branch=fddd6edb5a235aea831fecf04547579693a78a4e
+[2018-09-26 22:04:41] Bundle org.eclipse.oomph.setup.p2 1.10.0.v20180706-1242, build=3652, branch=fddd6edb5a235aea831fecf04547579693a78a4e
+[2018-09-26 22:04:41] Performing P2 Director (Eclipse IDE for Java Developers (2018-09))
+[2018-09-26 22:04:41] Offline = false
+[2018-09-26 22:04:41] Mirrors = true
+[2018-09-26 22:04:41] Resolving 27 requirements from 3 repositories to C:\Users\Divya\divyav10\BackEnd\eclipse
+[2018-09-26 22:04:41] Requirement epp.package.java [4.9.0,4.10.0)
+[2018-09-26 22:04:41] Requirement org.eclipse.platform.feature.group [4.9.0,4.10.0)
+[2018-09-26 22:04:41] Requirement org.eclipse.rcp.feature.group [4.9.0,4.10.0)
+[2018-09-26 22:04:41] Requirement org.eclipse.buildship.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.eclemma.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.egit.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.egit.mylyn.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.epp.mpc.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.jdt.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.jgit.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.m2e.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.m2e.logback.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.git.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.hudson.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.java_feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.mylyn_feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.recommenders.mylyn.rcp.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.recommenders.news.rcp.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.recommenders.rcp.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.recommenders.snipmatch.rcp.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.tips.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2018-09-26 22:04:41] Requirement org.eclipse.oomph.setup.feature.group
+[2018-09-26 22:04:41] Repository http://download.eclipse.org/technology/epp/packages/2018-09
+[2018-09-26 22:04:41] Repository http://download.eclipse.org/releases/2018-09/201809191002
+[2018-09-26 22:04:41] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2018-09-26 22:04:44] Calculating requirements and dependencies.
+[2018-09-26 22:04:48] Computing prerequisite plan
+[2018-09-26 22:04:56] Collecting 1 artifacts from http://download.eclipse.org/technology/epp/packages/2018-09
+[2018-09-26 22:04:56] Downloading epp.package.java.executable.win32.win32.x86_64
+[2018-09-26 22:04:56] Collected 1 artifacts for http://download.eclipse.org/technology/epp/packages/2018-09 in 0s
+[2018-09-26 22:04:56] Collecting 295 artifacts from http://download.eclipse.org/releases/2018-09/201809191002
+[2018-09-26 22:04:57] Downloading org.eclipse.platform_root
+[2018-09-26 22:04:57] Downloading org.eclipse.rcp_root
+[2018-09-26 22:04:57] Downloading org.eclipse.mylyn.wikitext.twiki
+[2018-09-26 22:04:57] Downloading org.eclipse.equinox.console
+[2018-09-26 22:04:57] Downloading org.eclipse.oomph.jreinfo.ui
+[2018-09-26 22:04:57] Downloading org.eclipse.equinox.p2.ui.sdk
+[2018-09-26 22:04:57] Downloading org.eclipse.core.resources.win32.x86_64
+[2018-09-26 22:04:57] Downloading org.eclipse.mylyn.monitor.ui
+[2018-09-26 22:04:57] Downloading org.eclipse.wst.common.emfworkbench.integration
+[2018-09-26 22:04:57] Downloading org.eclipse.wst.common.ui
+[2018-09-26 22:04:57] Downloading org.eclipse.e4.core.di
+[2018-09-26 22:04:57] Downloading org.eclipse.oomph.predicates.edit
+[2018-09-26 22:04:58] Fetching org.eclipse.oomph.jreinfo.ui_1.10.0.v20180706-1242.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/ (27.1kB)
+[2018-09-26 22:04:59] Fetching org.eclipse.oomph.jreinfo.ui_1.10.0.v20180706-1242.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:00] Downloading org.apache.maven.resolver.transport.http
+[2018-09-26 22:05:01] Fetching org.eclipse.core.resources.win32.x86_64_3.5.200.v20180828-0158.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/releases/2018-09/201809191002/plugins/ (50.92kB)
+[2018-09-26 22:05:01] Fetching org.eclipse.mylyn.wikitext.twiki_3.0.25.20180620133858.jar from http://mirror.rise.ph/eclipse/releases/2018-09/201809191002/plugins/ (50.55kB)
+[2018-09-26 22:05:02] Fetching org.eclipse.oomph.predicates.edit_1.10.0.v20180706-1242.jar.pack.gz from http://mirror.rise.ph/eclipse//releases/2018-09/201809191002/plugins/ (19.85kB)
+[2018-09-26 22:05:02] Fetching org.eclipse.e4.core.di_1.7.100.v20180817-1215.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2018-09/201809191002/plugins/ (25.97kB)
+[2018-09-26 22:05:02] Fetching org.eclipse.wst.common.ui_1.1.500.v200911182011.jar.pack.gz from http://mirrors.ustc.edu.cn/eclipse/releases/2018-09/201809191002/plugins/ (52.75kB)
+[2018-09-26 22:05:02] Fetching org.eclipse.mylyn.wikitext.twiki_3.0.25.20180620133858.jar from http://mirror.rise.ph/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:03] Downloading org.eclipse.equinox.preferences
+[2018-09-26 22:05:04] Fetching org.eclipse.wst.common.ui_1.1.500.v200911182011.jar.pack.gz from http://mirrors.ustc.edu.cn/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:05] Fetching org.eclipse.equinox.p2.ui.sdk_1.1.100.v20180827-1122.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2018-09/201809191002/plugins/ (26.66kB)
+[2018-09-26 22:05:05] Fetching org.eclipse.core.resources.win32.x86_64_3.5.200.v20180828-0158.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:05] Fetching org.eclipse.e4.core.di_1.7.100.v20180817-1215.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2018-09/201809191002/plugins/ (25.97kB)
+[2018-09-26 22:05:05] Fetching org.eclipse.wst.common.emfworkbench.integration_1.2.101.v201802262042.jar.pack.gz from http://ftp.daumkakao.com/eclipse/releases/2018-09/201809191002/plugins/ (53.01kB)
+[2018-09-26 22:05:05] Fetching org.apache.maven.resolver.transport.http_1.0.3.v20170405-0725.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2018-09/201809191002/plugins/ (25.88kB)
+[2018-09-26 22:05:05] Downloading javax.el
+[2018-09-26 22:05:07] Fetching org.apache.maven.resolver.transport.http_1.0.3.v20170405-0725.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:09] Fetching org.eclipse.equinox.p2.ui.sdk_1.1.100.v20180827-1122.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:09] Fetching org.eclipse.e4.core.di_1.7.100.v20180817-1215.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:09] Fetching org.eclipse.wst.common.emfworkbench.integration_1.2.101.v201802262042.jar.pack.gz from http://ftp.daumkakao.com/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:14] Downloading org.eclipse.m2e.jdt
+[2018-09-26 22:05:15] Fetching org.eclipse.m2e.jdt_1.9.1.20180912-1601.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (54.25kB)
+[2018-09-26 22:05:16] Fetching org.eclipse.equinox.preferences_3.7.200.v20180827-1235.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/ (54kB)
+[2018-09-26 22:05:16] Fetching org.eclipse.m2e.jdt_1.9.1.20180912-1601.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:17] Downloading org.apache.maven.resolver.connector.basic
+[2018-09-26 22:05:17] Downloading org.eclipse.epp.logging.aeri.core
+[2018-09-26 22:05:17] Downloading org.eclipse.wst.common.core
+[2018-09-26 22:05:17] Fetching org.eclipse.equinox.preferences_3.7.200.v20180827-1235.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:18] Fetching org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (25.62kB)
+[2018-09-26 22:05:18] Fetching org.eclipse.epp.logging.aeri.core_2.0.7.v20180504-0806.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (54.88kB)
+[2018-09-26 22:05:18] Fetching javax.el_2.2.0.v201303151357.jar.pack.gz from http://mirrors.xmission.com/eclipse/releases/2018-09/201809191002/plugins/ (30.08kB)
+[2018-09-26 22:05:18] Fetching org.eclipse.wst.common.core_1.2.0.v201802151734.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (23.63kB)
+[2018-09-26 22:05:18] Downloading org.apache.felix.gogo.command
+[2018-09-26 22:05:19] Downloading org.eclipse.equinox.p2.discovery.compatibility
+[2018-09-26 22:05:19] Fetching javax.el_2.2.0.v201303151357.jar.pack.gz from http://mirrors.xmission.com/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:20] Fetching org.eclipse.epp.logging.aeri.core_2.0.7.v20180504-0806.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:20] Fetching org.eclipse.wst.common.core_1.2.0.v201802151734.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:20] Downloading org.eclipse.equinox.p2.artifact.repository
+[2018-09-26 22:05:20] Downloading javaewah
+[2018-09-26 22:05:20] Downloading org.eclipse.userstorage.oauth
+[2018-09-26 22:05:20] Fetching org.eclipse.equinox.console_1.3.100.v20180827-1235.jar.pack.gz from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2018-09/201809191002/plugins/ (51.24kB)
+[2018-09-26 22:05:21] Downloading org.objectweb.asm
+[2018-09-26 22:05:22] Fetching org.apache.felix.gogo.command_1.0.2.v20170914-1324.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (31.52kB)
+[2018-09-26 22:05:23] Fetching org.eclipse.equinox.console_1.3.100.v20180827-1235.jar.pack.gz from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:24] Fetching org.apache.felix.gogo.command_1.0.2.v20170914-1324.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:24] Fetching org.eclipse.equinox.p2.discovery.compatibility_1.1.100.v20180822-1302.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (27.03kB)
+[2018-09-26 22:05:24] Fetching org.eclipse.mylyn.monitor.ui_3.24.2.v20180904-2231.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/ (31.25kB)
+[2018-09-26 22:05:24] Fetching org.eclipse.userstorage.oauth_1.0.0.v20170526-1605.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/ (27.96kB)
+[2018-09-26 22:05:24] Fetching org.objectweb.asm_6.2.1.v20180823-1831.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (58.42kB)
+[2018-09-26 22:05:25] Fetching javaewah_1.1.6.v20160919-1400.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/ (57.92kB)
+[2018-09-26 22:05:25] Fetching org.eclipse.equinox.p2.artifact.repository_1.2.100.v20180822-1258.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/ (57.85kB)
+[2018-09-26 22:05:25] Fetching org.eclipse.mylyn.monitor.ui_3.24.2.v20180904-2231.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:25] Fetching org.eclipse.userstorage.oauth_1.0.0.v20170526-1605.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:25] Fetching org.objectweb.asm_6.2.1.v20180823-1831.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:26] Fetching org.eclipse.equinox.p2.artifact.repository_1.2.100.v20180822-1258.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:28] Repeated attempts to download http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/org.eclipse.equinox.p2.discovery.compatibility_1.1.100.v20180822-1302.jar.pack.gz probably because it can't be processed
+[2018-09-26 22:05:28] Fetching javaewah_1.1.6.v20160919-1400.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:29] Fetching org.eclipse.equinox.p2.discovery.compatibility_1.1.100.v20180822-1302.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (27.03kB)
+[2018-09-26 22:05:30] Repeated attempts to download http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/org.apache.felix.gogo.command_1.0.2.v20170914-1324.jar.pack.gz probably because it can't be processed
+[2018-09-26 22:05:30] Fetching org.eclipse.equinox.p2.discovery.compatibility_1.1.100.v20180822-1302.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:30] Fetching org.eclipse.equinox.console_1.3.100.v20180827-1235.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (51.24kB)
+[2018-09-26 22:05:30] Fetching org.apache.felix.gogo.command_1.0.2.v20170914-1324.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/ (31.52kB)
+[2018-09-26 22:05:31] Repeated attempts to download http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/org.eclipse.userstorage.oauth_1.0.0.v20170526-1605.jar.pack.gz probably because it can't be processed
+[2018-09-26 22:05:31] Repeated attempts to download http://mirror.library.ucy.ac.cy/eclipse/releases/2018-09/201809191002/plugins/org.eclipse.equinox.p2.artifact.repository_1.2.100.v20180822-1258.jar.pack.gz probably because it can't be processed
+[2018-09-26 22:05:31] Fetching org.eclipse.equinox.console_1.3.100.v20180827-1235.jar.pack.gz from http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/
+[2018-09-26 22:05:31] Repeated attempts to download http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/org.eclipse.equinox.console_1.3.100.v20180827-1235.jar.pack.gz probably because it can't be processed
+[2018-09-26 22:05:32] Fetching org.eclipse.wst.common.ui_1.1.500.v200911182011.jar.pack.gz from http://mirrors.ustc.edu.cn/eclipse/releases/2018-09/201809191002/plugins/ (52.75kB)
+[2018-09-26 22:05:32] Repeated attempts to download http://eclipse.mirror.rafal.ca/releases/2018-09/201809191002/plugins/org.apache.felix.gogo.command_1.0.2.v20170914-1324.jar.pack.gz probably because it can't be processed
