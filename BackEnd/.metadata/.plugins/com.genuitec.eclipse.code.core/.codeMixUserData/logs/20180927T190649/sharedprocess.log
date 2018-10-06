@@ -1,0 +1,315 @@
+[2018-09-27 19:06:59.171] [sharedprocess] [info] main {"machineId":"30eeb32d76b26eaede6dfa3fc84fbfb386a25048cc664e57ed7bdf381ff65af3"}
+[2018-09-27 19:06:59.180] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:00.994] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:05.855] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:05.864] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:06.166] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:22.404] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:22.641] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:22.698] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:29.117] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:29.118] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:29.118] [sharedprocess] [info] Installing the extension: codemix.angular-0.9.0
+[2018-09-27 19:07:29.123] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 19:07:29.184] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:29.217] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.codemix.angular-0.9.0: codemix.angular-0.9.0
+[2018-09-27 19:07:29.229] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\codemix.angular-0.9.0
+[2018-09-27 19:07:29.229] [sharedprocess] [info] Installation completed. codemix.angular-0.9.0
+[2018-09-27 19:07:29.233] [sharedprocess] [info] Successfully installed the extension: codemix.angular-0.9.0
+[2018-09-27 19:07:29.241] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 19:07:29.253] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 19:07:29.308] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:29.346] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 19:07:29.394] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:30.761] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 19:07:30.763] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 19:07:30.763] [sharedprocess] [info] Installing the extension: gamunu.vscode-yarn-1.6.0
+[2018-09-27 19:07:30.773] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 19:07:30.817] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:33.325] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.gamunu.vscode-yarn-1.6.0: gamunu.vscode-yarn-1.6.0
+[2018-09-27 19:07:33.326] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\gamunu.vscode-yarn-1.6.0
+[2018-09-27 19:07:33.326] [sharedprocess] [info] Installation completed. gamunu.vscode-yarn-1.6.0
+[2018-09-27 19:07:33.331] [sharedprocess] [info] Successfully installed the extension: gamunu.vscode-yarn-1.6.0
+[2018-09-27 19:07:33.345] [sharedprocess] [info] Scanned user extensions: 2
+[2018-09-27 19:07:33.395] [sharedprocess] [info] Scanned user extensions: 2
+[2018-09-27 19:07:33.642] [sharedprocess] [info] Scanned user extensions: 2
+[2018-09-27 19:07:33.823] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:33.886] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:34.025] [sharedprocess] [info] Scanned user extensions: 2
+[2018-09-27 19:07:34.027] [sharedprocess] [info] Scanned user extensions: 2
+[2018-09-27 19:07:34.027] [sharedprocess] [info] Installing the extension: ms-vscode.node-debug2-1.24.2
+[2018-09-27 19:07:34.035] [sharedprocess] [info] Scanned user extensions: 2
+[2018-09-27 19:07:34.142] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:39.177] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-27 19:07:43.046] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.ms-vscode.node-debug2-1.24.2: ms-vscode.node-debug2-1.24.2
+[2018-09-27 19:07:43.048] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\ms-vscode.node-debug2-1.24.2
+[2018-09-27 19:07:43.048] [sharedprocess] [info] Installation completed. ms-vscode.node-debug2-1.24.2
+[2018-09-27 19:07:43.052] [sharedprocess] [info] Successfully installed the extension: ms-vscode.node-debug2-1.24.2
+[2018-09-27 19:07:43.061] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-27 19:07:43.078] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-27 19:07:43.225] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-27 19:07:43.229] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:43.307] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:07:43.753] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-27 19:07:43.761] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-27 19:07:43.761] [sharedprocess] [info] Installing the extension: eg2.tslint-1.0.29
+[2018-09-27 19:07:43.770] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-27 19:07:43.815] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:12.209] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.eg2.tslint-1.0.29: eg2.tslint-1.0.29
+[2018-09-27 19:08:12.215] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\eg2.tslint-1.0.29
+[2018-09-27 19:08:12.215] [sharedprocess] [info] Installation completed. eg2.tslint-1.0.29
+[2018-09-27 19:08:12.218] [sharedprocess] [info] Successfully installed the extension: eg2.tslint-1.0.29
+[2018-09-27 19:08:12.292] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-27 19:08:12.366] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-27 19:08:12.432] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-27 19:08:13.114] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:13.118] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:13.442] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-27 19:08:13.450] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-27 19:08:13.450] [sharedprocess] [info] Installing the extension: hookyqr.beautify-1.3.0
+[2018-09-27 19:08:13.458] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-27 19:08:13.501] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:18.232] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.hookyqr.beautify-1.3.0: hookyqr.beautify-1.3.0
+[2018-09-27 19:08:18.233] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\hookyqr.beautify-1.3.0
+[2018-09-27 19:08:18.233] [sharedprocess] [info] Installation completed. hookyqr.beautify-1.3.0
+[2018-09-27 19:08:18.235] [sharedprocess] [info] Successfully installed the extension: hookyqr.beautify-1.3.0
+[2018-09-27 19:08:18.285] [sharedprocess] [info] Scanned user extensions: 5
+[2018-09-27 19:08:18.379] [sharedprocess] [info] Scanned user extensions: 5
+[2018-09-27 19:08:18.430] [sharedprocess] [info] Scanned user extensions: 5
+[2018-09-27 19:08:18.937] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:18.948] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:19.136] [sharedprocess] [info] Scanned user extensions: 5
+[2018-09-27 19:08:19.141] [sharedprocess] [info] Scanned user extensions: 5
+[2018-09-27 19:08:19.141] [sharedprocess] [info] Installing the extension: eg2.vscode-npm-script-0.3.3
+[2018-09-27 19:08:19.204] [sharedprocess] [info] Scanned user extensions: 5
+[2018-09-27 19:08:19.537] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:20.098] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.eg2.vscode-npm-script-0.3.3: eg2.vscode-npm-script-0.3.3
+[2018-09-27 19:08:20.099] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\eg2.vscode-npm-script-0.3.3
+[2018-09-27 19:08:20.099] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script-0.3.3
+[2018-09-27 19:08:20.100] [sharedprocess] [info] Successfully installed the extension: eg2.vscode-npm-script-0.3.3
+[2018-09-27 19:08:20.108] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-27 19:08:20.121] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-27 19:08:20.161] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:20.216] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-27 19:08:20.221] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-27 19:08:20.230] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-27 19:08:20.230] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag-0.5.6
+[2018-09-27 19:08:20.257] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-27 19:08:20.289] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:20.308] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:20.459] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag-0.5.6
+[2018-09-27 19:08:20.461] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\formulahendry.auto-close-tag-0.5.6
+[2018-09-27 19:08:20.461] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag-0.5.6
+[2018-09-27 19:08:20.463] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag-0.5.6
+[2018-09-27 19:08:20.471] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-27 19:08:20.492] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-27 19:08:20.522] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:20.578] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-27 19:08:20.606] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:08:20.669] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-27 19:08:20.677] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-27 19:08:20.677] [sharedprocess] [info] Installing the extension: zignd.html-css-class-completion-1.17.1
+[2018-09-27 19:08:20.696] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-27 19:08:20.749] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:06.591] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.zignd.html-css-class-completion-1.17.1: zignd.html-css-class-completion-1.17.1
+[2018-09-27 19:09:06.759] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\zignd.html-css-class-completion-1.17.1
+[2018-09-27 19:09:06.759] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion-1.17.1
+[2018-09-27 19:09:06.762] [sharedprocess] [info] Successfully installed the extension: zignd.html-css-class-completion-1.17.1
+[2018-09-27 19:09:06.866] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-27 19:09:06.956] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-27 19:09:07.022] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-27 19:09:07.347] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:07.351] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:07.503] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-27 19:09:07.509] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-27 19:09:07.509] [sharedprocess] [info] Installing the extension: codemix.web-0.9.1
+[2018-09-27 19:09:07.522] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-27 19:09:07.555] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:07.579] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.codemix.web-0.9.1: codemix.web-0.9.1
+[2018-09-27 19:09:07.580] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\codemix.web-0.9.1
+[2018-09-27 19:09:07.580] [sharedprocess] [info] Installation completed. codemix.web-0.9.1
+[2018-09-27 19:09:07.581] [sharedprocess] [info] Successfully installed the extension: codemix.web-0.9.1
+[2018-09-27 19:09:07.676] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-27 19:09:07.766] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-27 19:09:07.770] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-27 19:09:07.832] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:07.835] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:07.987] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-27 19:09:07.996] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-27 19:09:07.996] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense-1.4.2
+[2018-09-27 19:09:08.007] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-27 19:09:08.039] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:08.429] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense-1.4.2
+[2018-09-27 19:09:08.432] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\christian-kohler.path-intellisense-1.4.2
+[2018-09-27 19:09:08.432] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense-1.4.2
+[2018-09-27 19:09:08.441] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense-1.4.2
+[2018-09-27 19:09:08.456] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-27 19:09:08.484] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-27 19:09:08.521] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:08.799] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-27 19:09:08.908] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-27 19:09:08.920] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-27 19:09:08.920] [sharedprocess] [info] Installing the extension: codemix.node-0.9.0
+[2018-09-27 19:09:08.941] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-27 19:09:08.964] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:08.973] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:08.994] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.codemix.node-0.9.0: codemix.node-0.9.0
+[2018-09-27 19:09:08.995] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\codemix.node-0.9.0
+[2018-09-27 19:09:08.995] [sharedprocess] [info] Installation completed. codemix.node-0.9.0
+[2018-09-27 19:09:08.996] [sharedprocess] [info] Successfully installed the extension: codemix.node-0.9.0
+[2018-09-27 19:09:09.008] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-27 19:09:09.031] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-27 19:09:09.063] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:09.120] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-27 19:09:09.144] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:09.209] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-27 19:09:09.218] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-27 19:09:09.218] [sharedprocess] [info] Installing the extension: formulahendry.code-runner-0.9.3
+[2018-09-27 19:09:09.239] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-27 19:09:09.283] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:10.950] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2018-09-27 19:09:10.951] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\formulahendry.code-runner-0.9.3
+[2018-09-27 19:09:10.951] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2018-09-27 19:09:10.953] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner-0.9.3
+[2018-09-27 19:09:11.045] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-27 19:09:11.190] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-27 19:09:11.214] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-27 19:09:11.447] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:11.452] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:11.772] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-27 19:09:11.783] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-27 19:09:11.783] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-27 19:09:11.804] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-27 19:09:11.835] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:16.188] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.msjsdiag.debugger-for-chrome-4.4.3: msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-27 19:09:16.189] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-27 19:09:16.189] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-27 19:09:16.192] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-27 19:09:16.293] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-27 19:09:16.447] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-27 19:09:16.481] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-27 19:09:16.717] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:16.721] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:17.015] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-27 19:09:17.028] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-27 19:09:17.028] [sharedprocess] [info] Installing the extension: angular.ng-template-0.1.9
+[2018-09-27 19:09:17.051] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-27 19:09:17.086] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:22.691] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.angular.ng-template-0.1.9: angular.ng-template-0.1.9
+[2018-09-27 19:09:27.524] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\angular.ng-template-0.1.9
+[2018-09-27 19:09:27.524] [sharedprocess] [info] Installation completed. angular.ng-template-0.1.9
+[2018-09-27 19:09:27.528] [sharedprocess] [info] Successfully installed the extension: angular.ng-template-0.1.9
+[2018-09-27 19:09:27.630] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-27 19:09:27.768] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-27 19:09:27.775] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-27 19:09:28.115] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:28.125] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:28.347] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-27 19:09:28.356] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-27 19:09:28.356] [sharedprocess] [info] Installing the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-09-27 19:09:28.376] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-27 19:09:28.408] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:30.110] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.dbaeumer.vscode-eslint-1.4.10: dbaeumer.vscode-eslint-1.4.10
+[2018-09-27 19:09:30.112] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10
+[2018-09-27 19:09:30.112] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint-1.4.10
+[2018-09-27 19:09:30.113] [sharedprocess] [info] Successfully installed the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-09-27 19:09:30.129] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-27 19:09:30.159] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-27 19:09:30.187] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:30.254] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-27 19:09:30.285] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:30.465] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-27 19:09:30.476] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-27 19:09:30.476] [sharedprocess] [info] Installing the extension: johnpapa.angular2-6.1.1
+[2018-09-27 19:09:30.495] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-27 19:09:30.536] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:30.841] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.johnpapa.angular2-6.1.1: johnpapa.angular2-6.1.1
+[2018-09-27 19:09:31.316] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\johnpapa.angular2-6.1.1
+[2018-09-27 19:09:31.316] [sharedprocess] [info] Installation completed. johnpapa.angular2-6.1.1
+[2018-09-27 19:09:31.319] [sharedprocess] [info] Successfully installed the extension: johnpapa.angular2-6.1.1
+[2018-09-27 19:09:31.349] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-27 19:09:31.392] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-27 19:09:31.408] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:31.474] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-27 19:09:31.500] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:09:31.568] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-27 19:09:31.579] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-27 19:09:31.579] [sharedprocess] [info] Installing the extension: rbbit.typescript-hero-2.3.2
+[2018-09-27 19:09:31.624] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-27 19:09:31.675] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:02.509] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.rbbit.typescript-hero-2.3.2: rbbit.typescript-hero-2.3.2
+[2018-09-27 19:10:02.540] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\rbbit.typescript-hero-2.3.2
+[2018-09-27 19:10:02.540] [sharedprocess] [info] Installation completed. rbbit.typescript-hero-2.3.2
+[2018-09-27 19:10:02.542] [sharedprocess] [info] Successfully installed the extension: rbbit.typescript-hero-2.3.2
+[2018-09-27 19:10:02.744] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-27 19:10:02.832] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-27 19:10:02.943] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-27 19:10:03.155] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:03.159] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:03.331] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-27 19:10:03.342] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-27 19:10:03.342] [sharedprocess] [info] Installing the extension: christian-kohler.npm-intellisense-1.2.1
+[2018-09-27 19:10:03.364] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-27 19:10:03.396] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:03.759] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.christian-kohler.npm-intellisense-1.2.1: christian-kohler.npm-intellisense-1.2.1
+[2018-09-27 19:10:03.760] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\christian-kohler.npm-intellisense-1.2.1
+[2018-09-27 19:10:03.760] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense-1.2.1
+[2018-09-27 19:10:03.761] [sharedprocess] [info] Successfully installed the extension: christian-kohler.npm-intellisense-1.2.1
+[2018-09-27 19:10:03.777] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-27 19:10:03.813] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-27 19:10:03.848] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:03.915] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-27 19:10:03.948] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:03.998] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-27 19:10:04.013] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-27 19:10:04.014] [sharedprocess] [info] Installing the extension: xabikos.javascriptsnippets-1.6.0
+[2018-09-27 19:10:04.049] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-27 19:10:04.094] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:04.158] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.xabikos.javascriptsnippets-1.6.0: xabikos.javascriptsnippets-1.6.0
+[2018-09-27 19:10:04.159] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\xabikos.javascriptsnippets-1.6.0
+[2018-09-27 19:10:04.159] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets-1.6.0
+[2018-09-27 19:10:04.161] [sharedprocess] [info] Successfully installed the extension: xabikos.javascriptsnippets-1.6.0
+[2018-09-27 19:10:04.184] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-27 19:10:04.216] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-27 19:10:04.243] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:04.313] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-27 19:10:04.342] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-27 19:10:04.351] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:04.362] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-27 19:10:04.362] [sharedprocess] [info] Installing the extension: codemix.typescript-0.9.0
+[2018-09-27 19:10:04.390] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-27 19:10:04.428] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:04.454] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.codemix.typescript-0.9.0: codemix.typescript-0.9.0
+[2018-09-27 19:10:04.455] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\codemix.typescript-0.9.0
+[2018-09-27 19:10:04.455] [sharedprocess] [info] Installation completed. codemix.typescript-0.9.0
+[2018-09-27 19:10:04.456] [sharedprocess] [info] Successfully installed the extension: codemix.typescript-0.9.0
+[2018-09-27 19:10:04.474] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-27 19:10:04.508] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-27 19:10:04.533] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:04.602] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-27 19:10:04.627] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:04.667] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-27 19:10:04.687] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-27 19:10:04.688] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint-0.5.0
+[2018-09-27 19:10:04.729] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-27 19:10:04.761] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:17.379] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.mkaufman.htmlhint-0.5.0: mkaufman.htmlhint-0.5.0
+[2018-09-27 19:10:17.382] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\mkaufman.htmlhint-0.5.0
+[2018-09-27 19:10:17.382] [sharedprocess] [info] Installation completed. mkaufman.htmlhint-0.5.0
+[2018-09-27 19:10:17.384] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint-0.5.0
+[2018-09-27 19:10:17.666] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:10:17.741] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:10:17.860] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:10:17.939] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:17.945] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:21.488] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:10:21.499] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:10:21.549] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:22.971] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:10:23.067] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-27 19:10:25.301] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:15:25.684] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:20:25.736] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:25:25.759] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:30:26.091] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-27 19:35:26.602] [sharedprocess] [info] Scanned user extensions: 21

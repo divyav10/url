@@ -1,0 +1,17 @@
+<div class="container">
+<h1>
+  Shortened Url
+</h1>
+<p>
+  {{ uniqueId }}
+</p>
+<form ( ngsubmit ) = "processForm()">
+  <div class="form-group">
+    <label for="id">ShortUrL</label>
+    <input type="text" class="form-control" id="id" required>
+  </div>
+
+  <button  class="btn btn-success" (click)="callRedirect()" >Submit</button>
+
+</form>
+</div>

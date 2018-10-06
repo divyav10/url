@@ -1,0 +1,12 @@
+package app;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+public class UrlSelectorServicePrjApplicationTests {
+	@SpringBootApplication
+	public class URLShortenerApplication {
+	    public static void main(final String[] args) {
+	        SpringApplication.run(URLShortenerApplication.class, args);
+	    }
+	}
+}

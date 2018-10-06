@@ -1,0 +1,50 @@
+[2018-10-04 21:02:53.354] [sharedprocess] [info] main {"machineId":"30eeb32d76b26eaede6dfa3fc84fbfb386a25048cc664e57ed7bdf381ff65af3"}
+[2018-10-04 21:02:54.068] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:02:55.294] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:02.066] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:02.072] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:02.117] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:05.463] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:05.546] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:10.273] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:13.109] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:13.177] [sharedprocess] [info] Deleted from disk christian-kohler.npm-intellisense-1.2.1
+[2018-10-04 21:03:13.205] [sharedprocess] [info] Scanned user extensions: 20
+[2018-10-04 21:03:13.206] [sharedprocess] [info] Installing the extension: christian-kohler.npm-intellisense-1.2.1
+[2018-10-04 21:03:13.274] [sharedprocess] [info] Scanned user extensions: 20
+[2018-10-04 21:03:13.314] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:13.786] [sharedprocess] [info] Extracted extension to C:\Users\Divya\.vscode\extensions\.christian-kohler.npm-intellisense-1.2.1: christian-kohler.npm-intellisense-1.2.1
+[2018-10-04 21:03:13.846] [sharedprocess] [info] Renamed to C:\Users\Divya\.vscode\extensions\christian-kohler.npm-intellisense-1.2.1
+[2018-10-04 21:03:13.846] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense-1.2.1
+[2018-10-04 21:03:13.849] [sharedprocess] [info] Successfully installed the extension: christian-kohler.npm-intellisense-1.2.1
+[2018-10-04 21:03:13.948] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:14.043] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:14.049] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:14.120] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:14.130] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:18.122] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:18.200] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:18.268] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:19.560] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:19.609] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-04 21:03:22.040] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:03:33.410] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-10-04 21:08:22.322] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:13:22.372] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:18:22.429] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:23:22.478] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:28:22.542] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:33:22.597] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:38:22.656] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:43:22.781] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:48:22.844] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:53:22.910] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 21:58:23.449] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:03:24.138] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:08:24.704] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:13:24.920] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:18:29.036] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:23:32.099] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:28:32.824] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:33:37.714] [sharedprocess] [info] Scanned user extensions: 21
+[2018-10-04 22:38:38.647] [sharedprocess] [info] Scanned user extensions: 21
